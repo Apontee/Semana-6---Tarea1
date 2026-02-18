@@ -1,0 +1,30 @@
+# Dependencias de Node.js
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+
+# .NET / Visual Studio
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.pdb
+*.cache
+
+# Archivos de Entorno y Secretos
+.env
+appsettings.Development.json
+appsettings.Local.json
+
+# Sistema Operativo
+Thumbs.db
+.DS_Store
+
+# Angular
+.angular/
+.editorconfig
+
+
